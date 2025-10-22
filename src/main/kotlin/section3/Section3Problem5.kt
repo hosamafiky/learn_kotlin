@@ -20,7 +20,7 @@ fun executeSection3Problem5() {
 			0 -> "First"
 			1 -> "Second"
 			2 -> "Third"
-			else -> "${index + 1}th"
+			else -> "${index + 1}' th"
 		}
 
 		"$position Food: $food"
